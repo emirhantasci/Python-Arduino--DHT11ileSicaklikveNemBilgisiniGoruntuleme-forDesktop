@@ -1,0 +1,2 @@
+# Python-Arduino--DHT11ileSicaklikveNemBilgisiniGoruntuleme-forDesktop
+ Bu projede Sıcaklık ve Nem sensörü olan DHT11'i Arduino üzerinden kodluyoruz ve Arduino'yu da Python'daki Serial kütüphanesi sayesinde görüntülüyoruz. Dolayısıyla serial kütüphanesi sayesinde sensör bilgilerini direkt olarak Python içerisine alabiliyoruz ve Python içerisine alabildiğimiz veriyi SQLite ile veritabanına kaydedip bir masaüstü uygulamasında görüntüleyebiliyoruz.
